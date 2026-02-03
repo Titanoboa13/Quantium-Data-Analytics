@@ -1,0 +1,8 @@
+# Veri dosyalarını yükleme
+*.csv
+*.xlsx
+
+# Python gereksiz dosyaları
+__pycache__/
+.venv/
+.idea/
